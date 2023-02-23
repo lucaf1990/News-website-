@@ -1,0 +1,12 @@
+.App {
+  background-image: "https://img.freepik.com/premium-photo/graphical-abstract-news-background-empty-studio-ground-red-blue-theme-background-3d-illustration_665346-6466.jpg";
+  background-repeat: no-repeat;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+#card:hover {
+  scale: 1.01;
+  color: black;
+}
